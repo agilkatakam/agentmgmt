@@ -1,3 +1,13 @@
+- name: kraal
+  url: https://github.com/vodhash/kraal
+  links:
+    - https://github.com/vodhash/kraal
+  details: Terminal multiplexer for coding agents and SSH servers that marks Claude Code, Codex, and 28 other agents as working, blocked, or done, gives each its own Git worktree, and frames production panes in red.
+  price: Free
+  github_stars: 5
+  opensource: true
+  os: [macos, linux]
+
 - name: Squadra
   url: https://github.com/dagoSte/squadra
   links:
