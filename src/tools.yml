@@ -4,7 +4,7 @@
     - https://github.com/vodhash/kraal
   details: Terminal multiplexer for coding agents and SSH servers that marks Claude Code, Codex, and 28 other agents as working, blocked, or done, gives each its own Git worktree, and frames production panes in red.
   price: Free
-  github_stars: 5
+  github_stars: 0
   opensource: true
   os: [macos, linux]
 
@@ -339,7 +339,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 102000
+  github_stars: 103000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -677,7 +677,7 @@
     - https://discord.gg/jn4EGJjrvv
     - https://github.com/pingdotgg/t3code
   price: Free
-  github_stars: 29000
+  github_stars: 30000
   opensource: true
   os: [macos, linux, windows]
 
