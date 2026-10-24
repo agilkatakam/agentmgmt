@@ -1,3 +1,23 @@
+- name: Corgi
+  url: https://corgi.computer/
+  links:
+    - https://github.com/tals/corgi
+  details: Agent and terminal multiplexer with a live activity feed per agent, a jump-to-next-unread key, a unified launcher with session search and resume for Codex, Claude Code, and Pi, and per-workspace CPU, memory, and GPU tracking.
+  price: Free
+  github_stars: 100
+  opensource: true
+  os: [macos, linux, windows]
+
+- name: Exawatt
+  url: https://exawatt.ai/
+  links:
+    - https://github.com/Full-Vibe/exawatt
+  details: Mac app for commanding large fleets of Claude Code, Codex, Gemini, and OpenClaw agents side by side, with a zoomable overview, beacons for working agents, per-agent cost tracking, and cross-agent messaging.
+  price: Free
+  github_stars: 0
+  opensource: true
+  os: [macos]
+
 - name: kraal
   url: https://github.com/vodhash/kraal
   links:
