@@ -14,7 +14,7 @@
     - https://github.com/dagoSte/squadra
   details: Local skill and Python toolkit for coordinating Claude Code, Codex, and interactive Cursor windows, with a shared task registry, file-bound checks, non-author reviews, and a browser dashboard.
   price: Free
-  github_stars: 300
+  github_stars: 400
   opensource: true
   os: [macos]
 
@@ -109,7 +109,7 @@
     - https://github.com/hardbeat920/monocode
   details: Desktop GUI that runs your installed Claude Code, Codex, Cursor, OpenCode, and other CLI agents in tabbed, splittable sessions, with optional worktrees, agent-driven orchestration, and experimental remote hosts.
   price: Free
-  github_stars: 3200
+  github_stars: 3300
   opensource: true
   os: [macos, linux, windows]
 
@@ -317,7 +317,7 @@
     - https://discord.gg/cZeD9WYcV7
     - https://github.com/superset-sh/superset
   price: Freemium
-  github_stars: 15000
+  github_stars: 16000
   opensource: true
   os: [macos]
 
@@ -339,7 +339,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 103000
+  github_stars: 104000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -546,7 +546,7 @@
   links:
     - https://github.com/ogulcancelik/herdr
   price: Free
-  github_stars: 45000
+  github_stars: 46000
   opensource: true
   os: [macos, linux]
 
@@ -590,7 +590,7 @@
     - https://x.com/ao_build
     - https://discord.com/invite/UZv7JjxbwG
   price: Free
-  github_stars: 13000
+  github_stars: 14000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
