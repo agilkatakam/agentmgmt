@@ -34,7 +34,7 @@
     - https://github.com/dagoSte/squadra
   details: Local skill and Python toolkit for coordinating Claude Code, Codex, and interactive Cursor windows, with a shared task registry, file-bound checks, non-author reviews, and a browser dashboard.
   price: Free
-  github_stars: 400
+  github_stars: 500
   opensource: true
   os: [macos]
 
@@ -119,7 +119,7 @@
     - https://discord.gg/W6Pb8KuHfg
   details: Multi-device web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Augment Code, & much more. Fully end-to-end encrypted
   price: Free
-  github_stars: 2000
+  github_stars: 2100
   opensource: true
   os: [macos, linux, windows]
 
@@ -129,7 +129,7 @@
     - https://github.com/hardbeat920/monocode
   details: Desktop GUI that runs your installed Claude Code, Codex, Cursor, OpenCode, and other CLI agents in tabbed, splittable sessions, with optional worktrees, agent-driven orchestration, and experimental remote hosts.
   price: Free
-  github_stars: 3300
+  github_stars: 3400
   opensource: true
   os: [macos, linux, windows]
 
@@ -219,7 +219,7 @@
     - https://github.com/zeronsh/zeron
   details: Native workspace for managing coding agents, with live diffs and optional multi-device session control.
   price:
-  github_stars: 3300
+  github_stars: 3400
   opensource: true
   os: [macos, linux, windows]
 
@@ -359,7 +359,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 104000
+  github_stars: 105000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
@@ -863,7 +863,7 @@
     - https://github.com/mvschwarz/openrig
   details: Self-hosted daemon, CLI, and TUI on tmux that runs Claude Code, Codex, and Pi as a persistent team, with a lead agent delegating to specialist agents over weeks-long projects.
   price: Free
-  github_stars: 8100
+  github_stars: 8200
   opensource: true
   os: [macos, linux]
 
