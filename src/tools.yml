@@ -4,7 +4,7 @@
     - https://github.com/tals/corgi
   details: Agent and terminal multiplexer with a live activity feed per agent, a jump-to-next-unread key, a unified launcher with session search and resume for Codex, Claude Code, and Pi, and per-workspace CPU, memory, and GPU tracking.
   price: Free
-  github_stars: 100
+  github_stars: 200
   opensource: true
   os: [macos, linux, windows]
 
@@ -34,7 +34,7 @@
     - https://github.com/dagoSte/squadra
   details: Local skill and Python toolkit for coordinating Claude Code, Codex, and interactive Cursor windows, with a shared task registry, file-bound checks, non-author reviews, and a browser dashboard.
   price: Free
-  github_stars: 500
+  github_stars: 600
   opensource: true
   os: [macos]
 
@@ -359,7 +359,7 @@
     - https://discord.gg/fzjDKHxv8Q
     - https://github.com/stablyai/orca
   price: Free
-  github_stars: 105000
+  github_stars: 106000
   opensource: true
   os: [macos, linux, windows, android, ios]
 
